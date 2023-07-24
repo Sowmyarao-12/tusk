@@ -6,5 +6,8 @@ I learnt repositories
 Trunk based Development
 DVCM
 
+Local repository
+branches 
+
 
 Thanks & Regards :)
